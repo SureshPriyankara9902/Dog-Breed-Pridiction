@@ -27,7 +27,7 @@ To run the Dog Breed Detection App locally, follow these steps:
 2. Change the directory to the project folder:
 
    ```bash
-    cd Dog_Breed_detection
+    cd Dog Breed pridiction
    
 3. Install the required dependencies using pip:
 
