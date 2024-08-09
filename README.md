@@ -1,10 +1,10 @@
-# Dog Breed Detection App
+# Dog Breed prediction
 
 
 
 ## Introduction
 
-The Dog Breed Detection App is a simple Streamlit application that uses a pre-trained machine learning model to predict the breed of a dog based on an uploaded image. Whether you're a dog enthusiast or just curious about your dog's breed, this app can provide you with an answer.
+The Dog Breed predection App is a simple Streamlit application that uses a pre-trained machine learning model to predict the breed of a dog based on an uploaded image. Whether you're a dog enthusiast or just curious about your dog's breed,Model accuracy,visualization,feedback,image gallary this app can provide you with an answer.
 
 ## Features
 
@@ -68,5 +68,14 @@ To run the Dog Breed Detection App locally, follow these steps:
 
 # Model Details
 The Dog Breed Detection App uses a pre-trained machine learning model based on the InceptionV3 architecture. The model has been fine-tuned on a dataset of 70 different dog breeds.
+
+# Testing
+![Screenshot (249)](https://github.com/user-attachments/assets/1d243272-4fa0-4623-929f-0cbdc4e346e3)
+![Screenshot (250)](https://github.com/user-attachments/assets/a7cfc154-a5fe-4da4-a8cb-6d9f86d0bb48)
+![Screenshot (251)](https://github.com/user-attachments/assets/14f0430e-2b74-4218-927d-fb37ea7d3333)
+![Screenshot (252)](https://github.com/user-attachments/assets/e3ab0d80-3b3d-4b2f-a427-5387105de886)
+
+
+
 
    
