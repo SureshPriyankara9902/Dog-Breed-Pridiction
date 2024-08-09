@@ -22,7 +22,7 @@ To run the Dog Breed Detection App locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/SureshPriyankara9902/Dog-Breed-Predict.git
+   https://github.com/SureshPriyankara9902/Dog-Breed-Pridiction.git
 
 2. Change the directory to the project folder:
 
