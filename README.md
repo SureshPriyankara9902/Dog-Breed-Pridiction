@@ -10,6 +10,11 @@ The Dog Breed predection App is a simple Streamlit application that uses a pre-t
 
 - **Breed Prediction**: Upload a picture of your dog, and the app will predict the most likely breed from a list of 70 different breeds.
 - **Easy to Use**: The user-friendly interface makes it simple for anyone to use.
+- **Model Accuracy Display**:Show the accuracy of your prediction model on the interface. This could be displayed as a percentage, perhaps below the prediction result, indicating how confident the model is in its prediction.
+- **Visualization**:Prediction Confidence Chart: Include a bar or pie chart to visualize the model's confidence levels across different breeds. This can give users a better understanding of how the model arrived at its prediction.
+- **Feedback Mechanism**:Allow users to provide feedback on the prediction. For example, users can indicate whether the prediction was accurate or not, and this feedback can be used for future model improvements.
+- **Image Gallery**:Create an image gallery where users can view previously uploaded images along with their predictions. This could be a fun feature to let users see what other breeds have been predicted by the app
+                
 
 ## Demo
 
@@ -41,30 +46,6 @@ To run the Dog Breed Detection App locally, follow these steps:
     streamlit run app.py
 
 ### The app will open in your web browser, allowing you to upload dog images for classification.
-
-
-
-
-
-# Folder Structure
-### The model has been trained on a dataset organized in the following folder structure:
-
-    
-        ./dog
-        │
-        └── Afghan
-        │   ├── 001.jpg
-        │   ├── 002.jpg
-        │   ...
-        │
-        └── African Wild Dog
-        │   ├── 001.jpg
-        │   ├── 002.jpg
-        │   ...
-        ...
-        
-  Each breed has its own folder containing multiple images.
-
 
 # Model Details
 The Dog Breed Detection App uses a pre-trained machine learning model based on the InceptionV3 architecture. The model has been fine-tuned on a dataset of 70 different dog breeds.
